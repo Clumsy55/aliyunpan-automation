@@ -1,4 +1,4 @@
-name: Aliyun Signin
+//name: Aliyun Signin
 
 on:
   schedule:
